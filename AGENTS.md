@@ -4,16 +4,16 @@ Next.js 16 starter template with React 19, TypeScript 5, Tailwind CSS 4, and dar
 
 ## Build & Dev Commands
 
-| Task                   | Command         |
-| ---------------------- | --------------- |
-| Dev server (Turbopack) | `pnpm dev`      |
-| Production build       | `pnpm build`    |
-| Start production       | `pnpm start`    |
-| Lint                   | `pnpm lint`     |
-| Lint + auto-fix        | `pnpm lint:fix` |
-| Format                 | `pnpm format`   |
+| Task                   | Command            |
+| ---------------------- | ------------------ |
+| Dev server (Turbopack) | `bun run dev`      |
+| Production build       | `bun run build`    |
+| Start production       | `bun run start`    |
+| Lint                   | `bun run lint`     |
+| Lint + auto-fix        | `bun run lint:fix` |
+| Format                 | `bun run format`   |
 
-> Preferred package manager is **pnpm** (see `pnpm-workspace.yaml`).
+> Preferred package manager is **bun run** (see `bun run-workspace.yaml`).
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ Next.js 16 starter template with React 19, TypeScript 5, Tailwind CSS 4, and dar
 ## Code Style
 
 - ESLint 9 flat config (`eslint.config.mjs`) — includes Next.js core-web-vitals, TypeScript, Prettier compat, and Tailwind rules.
-- Prettier with `@trivago/prettier-plugin-sort-imports` (auto-sorts imports) and `prettier-plugin-tailwindcss` (auto-sorts class names). Always run `pnpm format` after editing.
+- Prettier with `@trivago/prettier-plugin-sort-imports` (auto-sorts imports) and `prettier-plugin-tailwindcss` (auto-sorts class names). Always run `bun run format` after editing.
 - Single quotes, no semicolons enforced by Prettier (check `.prettierrc` if present).
 
 ## Docker
