@@ -1,6 +1,6 @@
 # Next.js 16 Starter (tailwind) [[LIVE DEMO](https://nextjs-16-starter-tailwind.vercel.app/)]
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue) [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org) ![ESLint](https://img.shields.io/badge/code%20style-eslint-brightgreen) ![GitHub stars](https://img.shields.io/github/stars/siddharthamaity/nextjs-16-starter-tailwind?style=social) ![GitHub forks](https://img.shields.io/github/forks/siddharthamaity/nextjs-16-starter-tailwind?style=social) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/siddharthamaity)
+![MIT License]
 
 *This is the Tailwind version for Next.js 16 Starter, you may be interested in other templates too -*
 - [**Next.js 16 Starter Core**](https://github.com/SiddharthaMaity/nextjs-16-starter-core)
